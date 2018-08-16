@@ -1,5 +1,5 @@
 [
-  {
+  "accounts":[ {
     "_id": "59e5004f23b3d30c722ed8aa",
     "index": 0,
     "guid": "69b0b73a-8df7-46f3-bb60-ceaf2b1fac2b",
@@ -224,4 +224,5 @@
     "greeting": "Hello, Allison Mccall! You have 10 unread messages.",
     "favoriteFruit": "banana"
   }
+]
 ]
